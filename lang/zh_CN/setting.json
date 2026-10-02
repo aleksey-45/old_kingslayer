@@ -1,0 +1,16 @@
+{
+  "settingLang": " 语言 ",
+  "settingAudio":" 音乐 ",
+  "settingVideo":" 视频 ",
+  "settingImage":"游戏视图",
+  "dropdownWindow":"窗口设置",
+  "dropdownWindowFull":"全屏",
+  "dropdownRotate":"卡牌旋转",
+  "dropdownCRT":"CRT 滤镜",
+  "dropdownParticle":"粒子效果",
+  "slideBgm":"背景音乐",
+  "slideSfx":"游戏音效",
+  "settingOpen":"开",
+  "settingClose":"关",
+  "RoFtaCD":"RoFtaCD"
+}

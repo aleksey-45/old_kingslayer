@@ -1,0 +1,16 @@
+{
+  "settingLang": " Language ",
+  "settingAudio":" Music ",
+  "settingVideo":" Video ",
+  "settingImage":" Image ",
+   "dropdownWindow":"Window",
+  "dropdownWindowFull":"FULL",
+   "dropdownRotate":"Card Rotate",
+  "dropdownCRT":"CRT",
+  "dropdownParticle":"Particles",
+  "slideBgm":"Music",
+  "slideSfx":"Sound Effects",
+  "settingOpen":"OPEN",
+  "settingClose":"CLOSE",
+  "RoFtaCD":"RoFtaCD"
+}

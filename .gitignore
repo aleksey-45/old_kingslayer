@@ -1,0 +1,36 @@
+# ── Visual Studio 缓存与用户配置（最大头，.vs/ 约 3.8 GB）──
+.vs/
+*.aps
+*.suo
+*.user
+*.ipch
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.tlog
+*.log
+
+# ── 构建输出 ──
+x64/
+Kingslayer/x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.exe
+*.lib
+*.dll
+
+# ── 发布快照（体积大，属构建产物；如需归档请用 GitHub Releases）──
+*.zip
+*.rar
+*.7z
+
+# ── 工具目录 ──
+.claude/
+.superpowers/
+_obsolete/
