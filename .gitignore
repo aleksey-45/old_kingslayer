@@ -22,8 +22,7 @@ Release/
 *.exp
 *.idb
 *.exe
-*.lib
-*.dll
+# 注意：*.lib / *.dll 刻意不排除 —— SDL2 链接库随仓库分发，保证 clone 后可直接编译
 
 # ── 发布快照（体积大，属构建产物；如需归档请用 GitHub Releases）──
 *.zip
